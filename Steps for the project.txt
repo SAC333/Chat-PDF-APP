@@ -1,0 +1,7 @@
+Extract text from a local PDF file.
+Split the text into smaller chunks.
+Download embeddings for NLP tasks.
+Create a vector store for efficient text similarity searches.
+Load a question-answering chain using OpenAI.
+Query the loaded documents for answers to specific questions.
+Demonstrate how to load PDFs from online sources and query them.
